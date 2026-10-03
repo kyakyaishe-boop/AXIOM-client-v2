@@ -1,0 +1,4 @@
+- name: Unzip projects
+  run: |
+    unzip axiom-client(1).zip
+    unzip axiom-launcher(1).zip
